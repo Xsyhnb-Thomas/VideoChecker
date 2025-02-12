@@ -18,13 +18,23 @@
 *   您可以随时按下界面上的 **暂停** 按钮来暂停程序运行。
 *   暂停后，如果您再次按下 **开始** 按钮，程序将会从**第一个步骤重新开始**执行。
 
-## 📦 输出目录 (Output Directory)
+## 📦 运行 (Run)
 
-**运行**
 使用的是python 3.10的版本
-安装依赖
-~~~pip install -r requirements.txt
-运行
-~~~python VideoHybridizer.cpython-310.pyc
 
-去重处理后的视频文件将自动保存在以下目录中：
+安装依赖
+~~~
+pip install -r requirements.txt
+~~~
+
+运行
+```
+python VideoHybridizer.cpython-310.pyc
+```
+## 直接下载
+也可以下载编译好的exe文件
+* 夸克网版：https://pan.quark.cn/s/f6b01200c1d3
+* 百度网版：https://pan.baidu.com/s/1v2VZKX7X0zH7uP4XYFD1bQ?pwd=jzdq 提取码: jzdq
+* 谷歌网盘：https://drive.google.com/file/d/1EnvstnM55Sp_mtQJbG5V-UiFOONYuzGv/view?usp=sharing
+  
+
