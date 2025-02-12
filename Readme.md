@@ -1,27 +1,31 @@
-# VideoChecker
+# 视频去重器 (Video Deduplication Tool)
 
-It can convert videos through a special algorithm to pass the repeatability verification of the platform. 
+[![状态徽章，例如构建状态，可以替换为你的徽章](https://img.shields.io/badge/Status-Beta-yellow)](https://your-badge-link-here)
 
-The program uses the relevant functions of ffmpeg. Therefore, the ffmpeg program needs to be placed in the same-level directory as the program. The program is divided into three steps: preprocessing, conversion, and fusion.  Any Windows system can be used. The processing time is determined by the performance of the CPU and GPU.
+>  **简洁高效的视频去重解决方案，帮助您快速清理重复视频，节省存储空间。**
 
+## ✨ 功能特点 (Features)
 
+*   **四步去重流程:**  程序化繁为简，仅需四个步骤即可完成视频去重，操作简单易上手。
+*   **随时暂停与重头开始:**  在程序运行过程中，您可以随时按下暂停键暂停，方便灵活控制流程。 暂停后再次点击开始，程序将立即从头开始执行，确保操作的灵活性。
+*   **输出结果清晰可见:**  去重后的视频文件将自动保存在 `统计目录` 下的 `output` 文件夹中，方便您进行后续的管理和查看。
+*   **广泛的视频格式支持:**  支持多种主流视频格式输入，包括 MP4, AVI, MOV, MKV, WMV 等，满足您多样化的视频去重需求。
 
-## Version
+## 🚀 使用方法 (Usage)
 
-Version Free:
+请按照以下步骤操作，开始您的视频去重之旅：
 
-    - 5 credits per days
+1.  **[步骤一描述，例如：打开程序]** -  请耐心等待程序启动完成。
+2.  **[步骤二描述，例如：导入视频文件]** -  程序正在分析视频内容，请稍候...
+3.  **[步骤三描述，例如：设置去重参数]** -  去重处理进行中，请勿关闭程序。
+4.  **[步骤四描述，例如：开始去重]** -  去重完成！结果视频已保存至指定目录。
 
-    - Max 30min each video
+**温馨提示：**
 
-Version Pro :
+*   程序总共包含四个步骤，请在操作过程中耐心等待每个步骤完成。
+*   您可以随时按下界面上的 **暂停** 按钮来暂停程序运行。
+*   暂停后，如果您再次按下 **开始** 按钮，程序将会从**第一个步骤重新开始**执行。
 
-    - No Limits !  
+## 📦 输出目录 (Output Directory)
 
-
-
-## Usage
-
-Download the 
-
-
+去重处理后的视频文件将自动保存在以下目录中：
