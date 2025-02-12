@@ -20,4 +20,11 @@
 
 ## 📦 输出目录 (Output Directory)
 
+**运行**
+使用的是python 3.10的版本
+安装依赖
+~~~pip install -r requirements.txt
+运行
+~~~python VideoHybridizer.cpython-310.pyc
+
 去重处理后的视频文件将自动保存在以下目录中：
